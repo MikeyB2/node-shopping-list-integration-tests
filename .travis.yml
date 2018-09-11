@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: AQMD/Ecz05w7RXY0Ebvnd4xVwJSkiIEBLTEPh+hxzsMOMbhcc36QHJ6rWfY083ktjr4o4Zvdjh9Bfzc0Esv6kdE4BveXRW5uZzAwaOixDHVOXU4sAHxkqC9TYjMMkzOATGgxpzAJc2evTg6+P+h+j+dkPfbBP5hvAmoV8A2ayBwCuR02gzJfflicN9brBd8QO0xH7qPLsPyeS/oz0n/zZuBJHFvCWn0KOQ6vZRtthPx7w0jQReIQvVdCLbXeywyQT5JRtzT5geWfE/fWa9CEczIqOH+wEzj1ZAnZpZN00ca4WUWzB1WkcFv5OJAROZsQVuHf2t3uvJjuf9C9t/YwLDMsac32maisQUyhjWIvbMRRP7VGufkDT5ETpmsrsCASoDG72HYSGLbEPxZKBAf+oDqhcolsC/YKGzmYBuu4lUlrkSNoQFtv/TOhZWuZfEf8fekSsObTgSVUfvuILOe7m1z3U+8mVNUUFNwDJeRI7T1t6lXb7y2D6zUKkYWaXSC0NlVQP+2FobDlrsLMgYvP+IB2c1TBkmJZprzkE2YfOPzsH8KZgdePTN7uOlTmFz+civgnJBfQsNnhYJHlwYaJvfDaQk9SHSO5wCL8bir2saoZbAwFqhFc7rQH52KEn+yf4TxM89TaDLr7j6qHLjCHW2ffvOlOK7t+ByBD4qeA0wg=
-  app: serene-mesa-84833.herokuapp.com/
+  app: https://serene-mesa-84833.herokuapp.com
   on:
     repo: MikeyB2/node-shopping-list-integration-tests
